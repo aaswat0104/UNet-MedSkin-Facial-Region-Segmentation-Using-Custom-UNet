@@ -11,6 +11,7 @@ To design a custom UNet architecture that performs facial skin segmentation from
 - Evaluation: Visual side-by-side comparisons of original images and predicted masks
 
 outputs::
+
 ![image](https://github.com/user-attachments/assets/4b2a3a34-721f-4b30-8124-b72b3ca04d45)
 ![image](https://github.com/user-attachments/assets/14ebadb7-6c62-4127-8278-35f858d7e519)
 
